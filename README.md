@@ -1,4 +1,4 @@
-# ymlcreator
+# ymlcreator for securecodebox
 
 creates inputs for securecodebox
 
